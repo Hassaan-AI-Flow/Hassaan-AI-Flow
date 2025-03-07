@@ -7,7 +7,7 @@
 ---
  
 </br>
-<img align="right" alt="Coding" height="320" width="300" src="/images.jpeg.jpeg1" />
+<img align="right" alt="Coding" height="320" width="300" src="/images1.jpeg" />
 
 ### About Me 
 
