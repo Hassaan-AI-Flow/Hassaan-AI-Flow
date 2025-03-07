@@ -1,7 +1,5 @@
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=27&duration=4000&pause=500&color=ffde7b&center=true&vCenter=true&width=700&height=50&lines=%E2%9C%A8Hi👋%2C+I'm+Hassan+Ashraf%E2%9C%A8;%E2%9C%A8Full+Stack+Developer+%7C+AI+Engineer%E2%9C%A8;%E2%9C%A8Building+Scalable+AI+Apps+%26+Solve+AI+Solutions%E2%9C%A8)](https://git.io/typing-svg)
 
-<h3 align="center">A passionate full stack developer from Pakistan.</h3>
-
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Hassan-AI-Flow&label=Profile%20views&color=CA0AB3&style=flat" alt="Hassan Ashraf" /> 
 </p>
@@ -49,6 +47,13 @@
 </p>
 
 ---
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hassan-ai-flow&show_icons=true&locale=en&layout=compact" alt="hassan-ai-flow" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hassan-ai-flow&show_icons=true&locale=en" alt="hassan-ai-flow" /></p>
 
 ### <h2 align="center">💡 *“Transforming Ideas into Scalable Web & AI Solutions!”* ✨</h2>
 
