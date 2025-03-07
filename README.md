@@ -1,4 +1,4 @@
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=27&duration=4000&pause=500&color=ffde7b&center=true&vCenter=true&width=700&height=50&lines=%E2%9C%A8Hey%2C+Hi 👋,I'm+Hassan+Ashraf%E2%9C%A8;%E2%9C%A8Full+Stack+Developer+%7C+AI+Engineer%E2%9C%A8;%E2%9C%A8Building+Scalable+AI+Apps+%26+Solve+AI+Solutions%E2%9C%A8)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=27&duration=4000&pause=500&color=ffde7b&center=true&vCenter=true&width=700&height=50&lines=%E2%9C%A8Hey%2C+Hi+ 👋+,+I'm+Hassan+Ashraf%E2%9C%A8;%E2%9C%A8Full+Stack+Developer+%7C+AI+Engineer%E2%9C%A8;%E2%9C%A8Building+Scalable+AI+Apps+%26+Solve+AI+Solutions%E2%9C%A8)](https://git.io/typing-svg)
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Hassan-AI-Flow&label=Profile%20views&color=CA0AB3&style=flat" alt="Hassan Ashraf" /> 
