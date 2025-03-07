@@ -48,9 +48,12 @@
 
 ---
 
+<h2>:label: Github Stats</h2>
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hassan-ai-flow&show_icons=true&locale=en&layout=compact" alt="hassan-ai-flow" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hassan-ai-flow&show_icons=true&locale=en" alt="hassan-ai-flow" /></p>
 
-### <h2 align="center">💡 *“Transforming Ideas into Scalable Web & AI Solutions!”* ✨</h2>
+### <h2 align="center">💡 *“I'm Passionate about learning new skills and explore new technologies”* ✨</h2>
 
