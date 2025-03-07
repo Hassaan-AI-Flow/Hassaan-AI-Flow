@@ -7,7 +7,7 @@
 ---
  
 </br>
-<img align="right" alt="Coding" height="320" width="300" src="/RidaProfileGIF.gif" />
+<img align="right" alt="Coding" height="320" width="300" src="/HassanProfileGIF.gif" />
 
 ### About Me 
 
