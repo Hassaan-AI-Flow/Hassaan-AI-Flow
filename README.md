@@ -22,7 +22,7 @@
 
 ### 🛠️ Tech Stack  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,figma,python,docker,openai" />
+  <img src="https://skillicons.dev/icons?i=html,css,figma,python,docker,openai agent sdk" />
 </div>  
 
 ---
