@@ -16,13 +16,13 @@
 - 🔗 Portfolio: [**Hassaan Ashraf Portfolio**](https://hassan-ai-flow.vercel.app/)
 - 📬 Reach me at: *hr8581492@gmail.com* 
 - 🌐 Launching modern web apps, AI chatbots platforms
-- ⚡ Building projects with **Python, Streamlit, Langchain, CrewAI,** and more...
+- ⚡ Building projects with **Python, Streamlit, Langchain, CrewAI, OpenAI Agent SDK** and more...
 
 </br> 
 
 ### 🛠️ Tech Stack  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,figma,python,docker,openai agent sdk" />
+  <img src="https://skillicons.dev/icons?i=html,css,figma,python,docker,shorthand" />
 </div>  
 
 ---
