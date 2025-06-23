@@ -50,7 +50,7 @@
 
 <div align="center">
   
-![snake gif](https://github.com/Hassaan-AI-Flow/Hassaan-AI-Flow/blob/main/.github/workflows/snake.yml/ocean.gif)
+![snake gif](https://github.com/AreebaZafarChohan/AreebaZafarChohan/blob/output/github-snake-dark.svg)
   
   <div/>
 
