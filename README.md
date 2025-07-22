@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=27&duration=4000&pause=500&color=800080&center=true&vCenter=true&width=700&height=50&lines=✨+Hi%2C+I’m+Hassaan+Ashraf+–+AI+Engineer+%7C+Full‑Stack+Developer✨;%F0%9F%9A%80+Building+Scalable+AI+Solutions+%26+Apps+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=27&duration=4000&pause=500&color=800080&center=true&vCenter=true&width=700&height=50&lines=✨+Hi%2C+I’m+Hassaan+Ashraf+–+AI+Engineer+%7C+Frontend+Developer+💻✨;%F0%9F%8C%90+Designing+Intuitive+UI+%26+Scalable+AI+Frontends+🚀)](https://git.io/typing-svg)
 
 
 
