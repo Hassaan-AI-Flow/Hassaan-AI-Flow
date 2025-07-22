@@ -38,7 +38,7 @@
 
 <h2> 🌐 Connect with Me </h2> 
 <p align="left">
-  <a href="mailto:hr8581492@gmail.com" target="_blank">
+  <a href="mailto:hassanashraf22130@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" height="35" width="90" />
   </a>
   <a href="https://www.linkedin.com/in/hassan-ashraf-468a7333b" target="_blank">
