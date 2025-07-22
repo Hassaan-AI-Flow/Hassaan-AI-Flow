@@ -13,8 +13,8 @@
 
 - 📚 Currently enrolled in **Agentic & Robotics AI Engineer**   
 - 💻 **Full Stack Developer** | **Chatbot Developer**  
-- 🔗 Portfolio: [**Hassaan Ashraf Portfolio**](https://hassan-ai-flow.vercel.app/)
-- 📬 Reach me at: *hr8581492@gmail.com* 
+- 🔗 Portfolio: [**Hassan Ashraf Portfolio**](https://hassan-ai-flow.vercel.app/)
+- 📬 Reach me at: *hassanashraf22130@gmail.com* 
 - 🌐 Launching modern web apps, AI chatbots platforms
 - ⚡ Building projects with **Python, Streamlit, Langchain, CrewAI, OpenAI Agent SDK** and more...
 
