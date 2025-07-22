@@ -1,4 +1,13 @@
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=27&duration=4000&pause=500&color=ffde7b&center=true&vCenter=true&width=700&height=50&lines=%E2%9C%A8Hi👋%2C+I'm+Hassaan+Ashraf%E2%9C%A8;%E2%9C%A8AI+Engineer+%7C+Full+Stack+Developer%E2%9C%A8;%E2%9C%A8Building+Scalable+AI+Apps+%26+Solve+AI+Solutions%E2%9C%A8)](https://git.io/typing-svg)
+<div align="center">
+  
+# ✨ Areeba Zafar ✨  
+### Full Stack Developer & AI Agents Specialist
+  
+![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=500&color=6366F1&center=true&vCenter=true&width=500&lines=Building+Intelligent+Web+Apps;OpenAI+SDK+Expert;Next.js+%7C+TypeScript+%7C+Python;AI+Agents+Enthusiast;Full+Stack+Developer)
+
+</div>
+
+---
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Hassaan-AI-Flow&label=Profile%20views&color=CA0AB3&style=flat" alt="Hassaan Ashraf" /> 
