@@ -1,6 +1,6 @@
 <div align="center">
   
-# ✨ Areeba Zafar ✨  
+# ✨ Hassan Ashraf ✨  
 ### Full Stack Developer & AI Agents Specialist
   
 ![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=500&color=6366F1&center=true&vCenter=true&width=500&lines=Building+Intelligent+Web+Apps;OpenAI+SDK+Expert;Next.js+%7C+TypeScript+%7C+Python;AI+Agents+Enthusiast;Full+Stack+Developer)
